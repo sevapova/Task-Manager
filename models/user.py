@@ -22,3 +22,4 @@ class User:
         user.user_id = data['user_id']
         return user
     
+    
